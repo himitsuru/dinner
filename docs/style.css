@@ -1,0 +1,29 @@
+*{
+    padding: 0%;
+    margin: 0;
+}
+:root{
+    --primary-color :#F7F0D7;
+    --secondary-color:#333;
+}
+
+header{
+    color: var(--primary-color);
+    text-align: center;
+    padding: 30px;
+}
+
+body{
+    background-image: url(images/top.jpg);
+    background-size: 1366px 768px;
+}
+div{
+    color: var(--primary-color);
+    text-align: center;
+    padding: 30px;
+}
+footer{
+    color: var(--primary-color);
+    text-align: center;
+    padding: 30px;
+}
